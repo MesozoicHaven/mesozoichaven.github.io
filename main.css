@@ -1,0 +1,87 @@
+.material-icons {
+  vertical-align: middle;
+  margin-top: -5px;
+  padding-right: 5px;
+}
+
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  width: 1250px;
+  margin: 0 auto;
+}
+
+p {
+  text-align: justify;
+}
+
+main {
+  flex: 1 0 auto;
+}
+
+nav {
+  vertical-align: middle;
+}
+
+aside {
+  float: right;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  background-color: #F44336;
+  color: white;
+  min-width: 20%;
+  max-width: 30%;
+  padding: 15px;
+}
+
+.ulfix {
+  list-style: disc;
+}
+
+/* Float Left & Right Quickly */
+.fright {
+  float: right;
+}
+
+.fleft {
+  float: left;
+}
+
+/* Size Limits */
+.l80 {
+  width: 80%;
+}
+
+/* Headings Tags Size Correction */
+h1 {
+  font-size: 32px;
+  font-weight: 600;
+  text-transform: capitalize;
+}
+h2 {
+  font-size: 28px;
+  font-weight: 500;
+  text-transform: capitalize;
+}
+h3 {
+  font-size: 24px;
+  font-weight: 500;
+  text-transform: capitalize;
+}
+h4 {
+  font-size: 20px;
+  font-weight: 500;
+  text-transform: capitalize;
+}
+h5 {
+  font-size: 18px;
+  font-weight: 500;
+  text-transform: capitalize;
+}
+h6 {
+  font-size: 16px;
+  font-weight: 500;
+  text-transform: capitalize;
+}
