@@ -31,7 +31,7 @@
       <section>
         <h1><span class="material-icons">public</span> Hello World!</h1>
         <!-- Testing Section START -->
-
+          
         <!-- Testing Section END -->
         <img src="biopic.png" alt="" class="circle responsive-img fright" width="250">
         <p>
